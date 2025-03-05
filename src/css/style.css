@@ -6,3 +6,7 @@
     background-color: black;
     position: absolute;
 }
+
+body {
+    overflow: hidden;
+}
