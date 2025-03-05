@@ -1,1 +1,8 @@
 @import "./reset.css";
+
+.character {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+}
